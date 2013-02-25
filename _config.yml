@@ -1,5 +1,5 @@
 # baseurl: /jekyll_demo
 permalink: /:title.html
 markdown: rdiscount
-auto: true
+auto: false
 pygments: true
