@@ -1,0 +1,5 @@
+# baseurl: /jekyll_demo
+permalink: /:title.html
+markdown: rdiscount
+auto: true
+pygments: true
