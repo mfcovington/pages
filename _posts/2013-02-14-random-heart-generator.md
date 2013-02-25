@@ -1,6 +1,7 @@
 ---
 title: Documentation for The Random Heart Generator
 categories: fun_stuff
+layout: post
 ---
 
 
